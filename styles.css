@@ -26,3 +26,38 @@ h1 {
 .center{
   text-align:center
 }
+.retangulo
+  rect(10,20,10,10);
+
+.trapezio {
+border-bottom: 70px solid #c1c1c1;
+border-left: 30px solid transparent;
+border-right: 15px solid transparent;
+height: 0;
+width: 120px;
+}
+
+.trapezio {
+border-bottom: 70px solid #c1c1c1;
+border-left: 30px solid transparent;
+border-right: 15px solid transparent;
+height: 0;
+width: 120px;
+}
+
+.trapezioinvertido {
+border-top: 70px solid #c1c1c1;
+border-left: 30px solid transparent;
+border-right: 15px solid transparent;
+height: 0;
+width: 120px;
+}
+
+.paralelograma {
+width: 150px;
+height: 70px;
+-webkit-transform: skew(-20deg);
+   -moz-transform: skew(-20deg);
+     -o-transform: skew(-20deg);
+background: #c1c1c1;
+}
