@@ -1,16 +1,25 @@
 h1 {
   color: blue;
 }
-body {
-  background-color: rgb(245, 245, 245);
-}
-
-.red {
-    color: red  
-}
-.orange {
-    color: orange  
-}
-.green {
-    color: green
-}
+  .red {
+      color: rgb(255, 0, 0);
+    }      
+  .orange {
+      color: rgb(255, 128, 0);
+   }  
+  .yellow {
+      color: yellow;
+  }     
+  .green {
+      color: #008000;
+  }      
+  .blue {
+      color: rgb(0, 0, 255);
+  }
+        
+  .indigo {
+      color: rgb(75, 0, 130);
+  }
+  .violet {
+      color: rgb(148, 0, 211);
+  }
