@@ -1,63 +1,50 @@
 h1 {
   color: blue;
 }
-  .red {
-      color: rgb(255, 0, 0);
-    }      
-  .orange {
-      color: rgb(255, 128, 0);
-   }  
-  .yellow {
-      color: yellow;
-  }     
-  .green {
-      color: #008000;
-  }      
-  .blue {
-      color: rgb(0, 0, 255);
-  }
-        
-  .indigo {
-      color: rgb(75, 0, 130);
-  }
-  .violet {
-      color: rgb(148, 0, 211);
-  }
-.center{
-  text-align:center
+.red {
+  color: rgb(255, 0, 0);
 }
-.retangulo
-  rect(10,20,10,10);
+.orange {
+  color: rgb(255, 128, 0);
+}
+.yellow {
+  color: yellow;
+}
+.green {
+  color: #008000;
+}
+.blue {
+  color: rgb(0, 0, 255);
+}
 
-.trapezio {
-border-bottom: 70px solid #c1c1c1;
-border-left: 30px solid transparent;
-border-right: 15px solid transparent;
-height: 0;
-width: 120px;
+.indigo {
+  color: rgb(75, 0, 130);
+}
+.violet {
+  color: rgb(148, 0, 211);
 }
 
 .trapezio {
-border-bottom: 70px solid #c1c1c1;
-border-left: 30px solid transparent;
-border-right: 15px solid transparent;
-height: 0;
-width: 120px;
+  border-bottom: 70px solid #c1c1c1;
+  border-left: 0px solid transparent;
+  border-right: 0px solid transparent;
+  height: 0;
+  width: 500px;
 }
 
 .trapezioinvertido {
-border-top: 70px solid #c1c1c1;
-border-left: 30px solid transparent;
-border-right: 15px solid transparent;
-height: 0;
-width: 120px;
+  border-top: 70px solid #c1c1c1;
+  border-left: 30px solid transparent;
+  border-right: 15px solid transparent;
+  height: 0;
+  width: 120px;
 }
 
 .paralelograma {
-width: 150px;
-height: 70px;
--webkit-transform: skew(-20deg);
-   -moz-transform: skew(-20deg);
-     -o-transform: skew(-20deg);
-background: #c1c1c1;
+  width: 150px;
+  height: 70px;
+  -webkit-transform: skew(-20deg);
+  -moz-transform: skew(-20deg);
+  -o-transform: skew(-20deg);
+  background: #c1c1c1;
 }
