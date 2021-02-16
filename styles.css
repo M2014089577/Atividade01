@@ -48,3 +48,19 @@ h1 {
   -o-transform: skew(-20deg);
   background: #c1c1c1;
 }
+
+.fundovermelho {
+  background-color: rgb(255, 0, 0);
+}
+
+.fundolaranja {
+  background-color: orange;
+}
+
+.fundoverde {
+  background-color: #008900;
+}
+.fundocinza {
+    background-color: #c1c1c1;
+
+}
